@@ -15,7 +15,7 @@ exclude = (
     'Part Hawaiian',  # Nondescript
     'Part Samoan',  # Nondescript
     'Some other race in combination with one or more other races',  # Nondescript
-    'Negro',  # Consesus
+    'Negro',  # Consensus
     'Other Arab',  # Arab/Arabic exists
     'Other Asian',  # Asian exists
     'Other Pacific',  # Pacific Islander exists
