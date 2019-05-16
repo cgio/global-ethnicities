@@ -1,0 +1,265 @@
+Acadian/Cajun
+Afghan/Afghanistani
+Agikuyu/Kikuyu
+Akan
+Alaska Athabascan
+Albanian
+Aleut
+Algerian
+Alsatian
+Amara/Amhara
+Amazigh/Imazighen/Berber
+American/United States
+Amerindian/Indigena/Indio
+Antiguan/Barbudan
+Apache
+Arab/Arabic
+Argentine/Argentinean
+Armenian
+Asian Indian/Indian (Asia)
+Assyrian/Chaldean/Syriac
+Australian
+Austrian
+Azerbaijani
+Azeri
+Bahamian
+Bajan/Barbadian
+Bamar/Burman
+Bangladeshi
+Bantu
+Basque
+Belarusian/Belorussian
+Belgian
+Belizean
+Bengali
+Blackfeet
+Bolivian
+Bosniak
+Bosnian/Herzegovinian
+Brazilian
+British Isles/British Isles origin
+British West Indian/Indies
+Briton/British
+Bulgarian
+Burmese
+Cambodian
+Cameroonian/Cameroon
+Canadian
+Canadian American Indian
+Cape Verdean
+Carpatho Rusyn
+Celtic
+Central American Indian
+Cherokee
+Cheyenne
+Chickasaw
+Chilean
+Chinese
+Chippewa
+Choctaw
+Colombian
+Colville
+Comanche
+Congolese/Congo
+Costa Rican
+Creek
+Creole
+Croat/Croatian
+Crow
+Cuban
+Cypriot
+Czech
+Czechoslovakian
+Dane/Danish
+Delaware
+Dominican
+Dutch
+Dutch West Indian/Indies
+East Indian
+Eastern Cherokee
+Ecuadorian
+Egyptian
+Emirati/United Arab Emirates
+English
+Eritrean
+Eskimo
+Estonian
+Ethiopian
+Fijian
+Filipino/Philippine
+Finn/Finnish
+Fleming/Flemish
+French
+French Canadian
+Fulani/Hausa
+Georgian
+German
+German Russian
+Ghanaian/Ghanian
+Greek
+Grenadian
+Guamanian/Chamorro
+Guatemalan
+Guyanese
+Haitian
+Hawaiian/Native Hawaiian
+Hmong
+Honduran
+Hopi
+Hungarian
+Ibo/Igbo
+Icelander
+Indonesian
+Inupiat Eskimo
+Iranian
+Iraqi
+Irish
+Iroquois
+Israeli
+Italian
+Ivoirian/Ivory Coast
+Jamaican
+Japanese
+Javanese/Java/Jawa
+Jewish/Jew
+Jordanian
+Kazakh/Qazaq
+Kazakhstani
+Kenyan
+Keres
+Khmer
+Kinh/Viet
+Kiowa
+Kittitian/Nevisian
+Korean
+Kurd/Kurdish
+Kuwaiti
+Lao Loum/Lowland Lao
+Lao/Laotian
+Latin American Indian
+Latvian
+Lebanese
+Liberian
+Libyan
+Lithuanian
+Lumbee
+Luxemburger
+Macedonian
+Malay
+Malaysian
+Maltese
+Maori
+Mende
+Mestizo
+Mexican
+Mexican American Indian
+Mohawk
+Moldovan/Moldavian
+Montenegrin
+Moroccan
+Muscogee (Creek) Nation
+Navajo
+Nepalese/Nepali
+New Zealander/New Zealand
+Nicaraguan
+Nigerian
+Norwegian
+Oglala Sioux
+Okinawan
+Oklahoma Choctaw
+Oneida Nation of New York/Oneida
+Oromo
+Osage
+Ottawa
+Paiute
+Pakistani
+Palestinian
+Panamanian
+Paraguayan
+Part Hawaiian
+Pashtun/Pathan
+Pennsylvania German
+Persian
+Peruvian
+Pima
+Pole/Polish
+Portuguese
+Potawatomi
+Pueblo
+Puerto Rican
+Puget Sound Salish
+Quechua
+Romanian
+Rosebud Sioux
+Russian
+Saint Lucian
+Salvadoran
+Samoan
+San Carlos Apache
+Saudi/Saudi Arabian
+Sault Ste. Marie Chippewa
+Scandinavian
+Scotch-Irish
+Scottish
+Seminole
+Seneca
+Senegalese
+Serb/Serbian
+Shawnee
+Shona
+Shoshone
+Sierra Leonean
+Singaporean/Singapore
+Sinhalese/Singhalese
+Sioux
+Slavic
+Slovak
+Slovene/Slovenian
+Somali/Somalian
+South African
+South American Indian
+Soviet/Soviet Union
+Spaniard/Spanish
+Spanish American Indian
+Sri Lankan
+Sudanese
+Swede/Swedish
+Swiss
+Syrian
+Tagalog
+Tahitian
+Taiwanese
+Tanzanian
+Temne/Temme/Themne
+Teton Sioux
+Thai
+Tigrinya/Tigray/Tigraway
+Tlingit
+Tlingit-Haida
+Togolese/Togo
+Tohono O'Odham
+Tongan
+Trinidadian/Tobagonian
+Tunisian
+Turk/Turkish
+Turtle Mountain Band/Turtle Mountain
+U.S. Virgin Islander
+Ugandan
+Ukrainian
+Uruguayan
+Ute
+Uzbek/Uzbeg
+Uzbekistani
+Venezuelan
+Vietnamese
+Welsh
+West Indian
+White Mountain Apache
+Yakama
+Yaqui
+Yemeni
+Yoruba
+Yugoslavian
+Yup'ik/Yupik Eskimo
+Zimbabwean
+Zuni

@@ -1,0 +1,645 @@
+Abruzzi
+Acadian
+Aden
+Afghan
+African
+African Islands
+African-American
+Afrikaner
+Afro
+Afro-American
+Alabama
+Aland Islander
+Alaska
+Albanian
+Aleut
+Algerian
+Alhucemas
+Alsatian
+Amalfi
+Amerasian
+American
+American Indian
+American Indian-English-French
+American Indian-English-German
+American Indian-English-Irish
+American Indian-German-Irish
+American Samoan
+Andalusian
+Andaman Islander
+Andhra Pradesh
+Andorran
+Anglo
+Angolan
+Anguilla Islander
+Antigua
+Appalachian
+Apulian
+Arab
+Arabic
+Arawak
+Argentinean
+Arizona
+Arkansas
+Armenian
+Aruba Islander
+Aryan
+Asian
+Asian Indian
+Assamese
+Assyrian
+Assyrian/Chaldean/Syriac
+Asturian
+Australian
+Australian Aborigine
+Austrian
+Azerbaijani
+Azorean
+Baggara
+Bahamian
+Bahraini
+Balearic Islander
+Baluchi
+Bangladeshi
+Barbadian
+Bashkir
+Basilicata
+Basque
+Bavarian
+Bedouin
+Belgian
+Belizean
+Belorussian
+Bengali
+Benin
+Berber
+Berliner
+Bermudan
+Bessarabian
+Bhutanese
+Bioko
+Black
+Black Thai
+Bohemian
+Bolivian
+Borneo
+Bosnian
+Botswana
+Brazilian
+Breton
+British
+British Isles
+British Virgin Islander
+British West Indian
+Bucovina
+Bulgarian
+Burman
+Burmese
+Burundian
+Cajun
+Calabrian
+California
+Californio
+Cambodian
+Cameroonian
+Campbell Islander
+Canadian
+Canal Zone
+Canary Islander
+Cantonese
+Cape Verdean
+Caribbean
+Caroline Islander
+Carpathian
+Carpatho Rusyn
+Castillian
+Catalonian
+Cayenne
+Cayman Islander
+Celtic
+Central African
+Central African Republic
+Central American
+Central American Indian
+Central European
+Chadian
+Chaldean
+Chamolinian
+Chamorro Islander
+Channel Islander
+Cherokee
+Chevash
+Chicano/Chicana
+Chilean
+Chinese
+Christmas Islander
+Chuukese
+Colombian
+Colorado
+Colored
+Congo-Brazzaville
+Congolese
+Connecticut
+Cook Islander
+Cornish
+Corsican
+Corsico Islander
+Cossack
+Costa Rican
+Creole
+Cretan
+Crimean
+Criollo/Criolla
+Croatian
+Cuban
+Cycladic Islander
+Cypriot
+Czech
+Czechoslovakian
+Danish
+Delaware
+Dinka
+District of Columbia
+Djibouti
+Dominica Islander
+Dominican
+Dutch
+Dutch West Indies
+Dutch-French-Irish
+Dutch-German-Irish
+Dutch-Irish-Scotch
+East African
+East German
+East Indian
+East Indies
+Eastern Archipelago
+Eastern European
+Ecuadorian
+Egyptian
+Emilia Romagna
+English
+English-French-German
+English-French-Irish
+English-German-Irish
+English-German-Swedish
+English-Irish-Scotch
+English-Scotch-Welsh
+Equatorial Guinea
+Eritrean
+Eskimo
+Estonian
+Ethiopian
+Eurasian
+European
+Faeroe Islander
+Fijian
+Filipino
+Finnish
+Finno Ugrian
+Flemish
+Florida
+Formosan
+French
+French Basque
+French Canadian
+French Samoan
+French West Indies
+Frisian
+Friulian
+Fulani
+Fur
+Gabonese
+Gagauz
+Galician
+Gallego
+Gambian
+Gazan
+Georgia
+Georgian/Georgia CIS
+German
+German from Russia/German Russian
+German-French-Irish
+German-Irish-Italian
+German-Irish-Scotch
+German-Irish-Swedish
+Germanic
+Ghanian
+Gibraltan
+Goanese
+Gosei
+Greek
+Greek Cypriote
+Greenlander
+Grenadian
+Gruziia
+Guadeloupe Islander
+Guamanian
+Guatemalan
+Guinea Bissau
+Guinean
+Gujarati
+Guyanese/British Guiana
+Haitian
+Hall Islander
+Hamburger
+Hanoverian
+Hausa
+Hawaiian
+Herzegovinian
+Hessian
+Hispanic
+Hmong
+Honduran
+Hong Kong
+Hungarian
+Husel
+Ibo
+Icelander
+Idaho
+Ifni
+Illinois
+India
+Indian
+Indiana
+Indochinese
+Indonesian
+Inuit
+Iowa
+Iranian
+Iraqi
+Irish
+Irish Scotch
+Israeli
+Issei
+Italian
+Ivory Coast
+Jamaican
+Japanese
+Java
+Jebel Druse
+Jordanian
+Kalmyk
+Kansas
+Kapinagamarangan
+Karelian
+Karnatakan
+Kashmiri
+Kashubian
+Katu
+Kentucky
+Kenyan
+Keralan
+Kermadec Islander
+Khmer
+Kirghiz
+Kiribatese
+Kitts/Nevis Islander
+Korean
+Kosraean
+Kurdish
+Kuria Muria Islander
+Kuwaiti
+La Raza
+Ladin
+Lamotrekese
+Laotian
+Lapp
+Latakian
+Latin
+Latin American
+Latino/Latina
+Latvian
+Lebanese
+Lemko
+Lesotho
+Liberian
+Libyan
+Liechtensteiner
+Ligurian
+Lithuanian
+Livonian
+Lombardian
+Lorrainian
+Louisiana
+Lubecker
+Luxemburger
+Ma
+Macao
+Macedonian
+Madagascan
+Madeiran
+Madhya Pradesh
+Madrasi
+Magyar
+Maharashtran
+Maine
+Malawian
+Malaysian
+Maldivian
+Malian
+Maltese
+Manchurian
+Mandarin
+Manx
+Maori
+Marches
+Marshall Islander
+Maryland
+Massachusetts
+Mauritanian
+Mauritius
+Melanesian Islander
+Meo
+Mesknetian
+Mexican
+Mexican American
+Mexican American Indian
+Mexican Indian
+Mexican State
+Mexicano/Mexicana
+Michigan
+Micronesian
+Middle Eastern
+Midway Islander
+Minnesota
+Mississippi
+Missouri
+Mnong
+Mokilese
+Moldavian
+Molise
+Monegasque
+Mongolian
+Montagnard
+Montana
+Montenegrin
+Montserrat Islander
+Moor
+Moravian
+Mordovian
+Moroccan
+Mortlockese
+Mozambican
+Mulatto
+Muscat
+Muscovite
+Mysore
+Naga
+Namanouito
+Namibian
+Natalian
+Native American
+Nauruan
+Neapolitan
+Nebraska
+Negro
+Nepali
+Nevada
+New Caledonian Islander
+New Guinean
+New Hampshire
+New Jersey
+New Mexico
+New York
+New Zealander
+Newfoundland
+Ngatikese
+Nicaraguan
+Niger
+Nigerian
+Nisei
+Niuean
+Nonwhite
+Norfolk Islander
+North African
+North American
+North Borneo
+North Carolina
+North Caucasian
+North Caucasian Turkic
+North Dakota
+Northern European
+Northern Irelander
+Northern Marianas
+Norwegian
+Nova Scotian
+Nuer
+Nuevo Mexicano
+Nukuoroan
+Occitan
+Oceania
+Ohio
+Okinawan
+Oklahoma
+Omani
+Oregon
+Orissa
+Ossetian
+Other Arab
+Other Asian
+Other Pacific
+Other Spanish/Hispanic
+Other Subsaharan Africa
+Other West Indian
+Pacific Islander
+Pakistani
+Palauan
+Palestinian
+Panamanian
+Papuan
+Paraguayan
+Part Hawaiian
+Part Samoan
+Pathan
+Pennsylvania
+Pennsylvania German
+Peruvian
+Phoenix Islander
+Piedmontese
+Pingelapese
+Polish
+Polynesian
+Pomeranian
+Ponapean
+Pondicherry
+Portuguese
+Providencia
+Prussian
+Puerto Rican
+Puglia
+Pulawatese
+Punjabi
+Qatar
+Rajasthani
+Reserved Codes
+Rhode Island
+Rio de Oro
+Rom
+Romanian
+Romansch
+Romanscho
+Rome
+Rumanian
+Russian
+Rusyn
+Ruthenian
+Rwandan
+Ryukyu Islander
+Saipanese
+Salvadoran
+Samoan
+San Andres
+San Marino
+Sansei
+Sardinian
+Saudi Arabian
+Saxon
+Scandinavian/Nordic
+Scotch Irish
+Scottish
+Senegalese
+Serbian
+Shan
+Sicilian
+Sierra Leonean
+Sikkim
+Silesian
+Singaporean
+Singhalese
+Slav
+Slavonian
+Slovak
+Slovene
+Solomon Islander
+Somalian
+Sorb/Wend
+South African
+South American
+South American Indian
+South Carolina
+South Dakota
+South Yemeni
+Southern European
+Southerner
+Soviet Central Asia
+Soviet Turkic
+Soviet Union
+Spaniard
+Spanish
+Spanish American
+Spanish Basque
+Sri Lankan
+St. Christopher
+St. Croix Islander
+St. John Islander
+St. Lucia Islander
+St. Maarten Islander
+St. Thomas Islander
+St. Vincent Islander/Vincent-Grenadine Islander
+Sudanese
+Sudetenlander
+Suisse
+Suisse Romane
+Sumatran
+Surinam/Dutch Guiana
+Swaziland
+Swedish
+Swiss
+Switzer
+Syriac
+Syrian
+Tadzhik
+Tahitian
+Taiwanese
+Tamil
+Tanganyikan
+Tanzanian
+Tarawa Islander
+Tartar
+Tasmanian
+Tatar
+Tejano/Tejana
+Tennessee
+Texas
+Thai
+Tibetan
+Ticino
+Tinian Islander
+Tirolean
+Tiv
+Tobagonian
+Togo
+Tokelauan
+Tongan
+Transjordan
+Transylvanian
+Trentino
+Trieste
+Trinidadian
+Trinidadian/Tobagonian
+Trucial Oman
+Truk Islander
+Tunisian
+Turcoman
+Turkestani
+Turkish
+Turkish Cypriote
+Turks and Caicos Islander
+Tuscan
+Tuvinian
+U.S. Trust Terr of the Pacific
+U.S. Virgin Islander
+Udmert
+Ugandan
+Ukrainian
+Ulithian
+Umbrian
+Union of South Africa
+United Arab Emirates
+United States
+Upper Voltan
+Uruguayan
+Utah
+Uttar Pradesh
+Uzbek
+Valencian
+Valle d'Aosta
+Vanuatuan
+Veddah
+Venetian
+Venezuelan
+Vermont
+Vietnamese
+Virginia
+Volga
+Volta
+Voytak
+Wake Islander
+Wallachian
+Walloon
+Washington
+Welsh
+West African
+West Bank
+West German
+West Indian
+West Virginia
+Western European
+Western Lao
+Westphalian
+White/Caucasian
+Windish
+Wisconsin
+Woleaian
+Wyoming
+Yakut
+Yap Islander
+Yemeni
+Yonsei
+Yoruba
+Yugoslavian
+Zairian
+Zambian
+Zanzibar Islande
+Zimbabwean
+Zulu
