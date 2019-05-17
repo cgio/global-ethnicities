@@ -11,7 +11,7 @@ correct = {
     'African-American': 'African American',
     'Asian Indian/Indian (Asia)': 'Asian Indian',
     'St Lucia Islander': 'St. Lucia Islander',
-    'Trust Territory of the Pacific Islands': 'Trust Territory of the Pacific '
+    'U.S. Trust Terr of the Pacific': 'Trust Territory of the Pacific '
                                               'Islands',
     'Udmert': 'Udmurt',
     'Zanzibar Islande': 'Zanzibar Islander',

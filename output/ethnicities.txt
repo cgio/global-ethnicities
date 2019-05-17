@@ -676,6 +676,7 @@ Trieste
 Trinidadian/Tobagonian
 Trucial Oman
 Truk Islander
+Trust Territory of the Pacific Islands
 Tsimshian
 Tunisian
 Turcoman
@@ -686,7 +687,6 @@ Turks and Caicos Islander
 Turtle Mountain
 Tuscan
 Tuvinian
-U.S. Trust Terr of the Pacific
 U.S. Virgin Islander
 Udmurt
 Ugandan
