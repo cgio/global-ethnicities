@@ -2,7 +2,7 @@
 
 ## Background
 
-This project, Global Ethnicities, exists because an alternative comprehensive list of ethnicities does not. Multiple, reputable sources are used to generate a list of 750+ world ethnicities in various formats: TXT, JSON, CSV, and YAML.
+This project, Global Ethnicities, exists because an alternative comprehensive list of ethnicities does not. Multiple, reputable sources are used to generate a list of 700+ world ethnicities in various formats: TXT, JSON, CSV, and YAML.
 
 Want to go straight to the list? Visit the **output** folder. If you want a specific list, for example, ethnicities from the U.S. United States Census Bureau only, see sources_local/census.txt.
 
@@ -70,8 +70,6 @@ Do you have your own script or a list from a reliable source? Please follow thes
 * From first-hand experience, I can attest that U.S. state names (e.g. Florida) are commonly selected as ethnicities over other applicable choices, e.g. Cuban American. In some cases, U.S. state names may be considered invalid ethnicities. For convenience, exclude.py has a list of state names that may be uncommented for exclusion. However, U.S. state names are included by default.
 
 * Consider adding "Other" and "Other combination" ethnicity options with an input area to capture ethnicities or variations. 
-
-* In some cases, exclusion of generalized ethnicities such as "Two or more races" may be preferred.
 
 * U.S. Census Bureau's American FactFinder will be obsolete after June 2019. Use data.census.gov instead.
 

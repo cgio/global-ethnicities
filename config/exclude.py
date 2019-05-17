@@ -10,11 +10,20 @@ Example:
 
 exclude = (
     'Reserved Codes',  # Invalid
+    'American Indian and Alaska Native in combination with one or more other races',  # Nondescript, non-ethnic
+    'Asian in combination with one or more other races',  # Nondescript, non-ethnic
+    'Black or African American in combination with one or more other races',  # Nondescript, non-ethnic
+    'Native Hawaiian and other Pacific Islander',  # Nondescript, non-ethnic
+    'Native Hawaiian and other Pacific Islander in combination with one or more other races',  # Nondescript, non-ethnic
+    'Some other race in combination with one or more other races',  # Nondescript, non-ethnic
+    'White in combination with one or more other races',  # Nondescript, non-ethnic
+    'Some other race',  # Non-ethnic
+    'Three or more races',  # Non-ethnic
+    'Two or more races',  # Non-ethnic
     'Nonwhite'  # Nondescript
     'Not Hispanic or Latino',  # Nondescript
     'Part Hawaiian',  # Nondescript
     'Part Samoan',  # Nondescript
-    'Some other race in combination with one or more other races',  # Nondescript
     'Negro',  # Consensus
     'Other Arab',  # Arab/Arabic exists
     'Other Asian',  # Asian exists
